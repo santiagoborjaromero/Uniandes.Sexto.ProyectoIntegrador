@@ -1,5 +1,5 @@
 ![6UG8](images/logo6UG8.jpg)
-# 6UG8 API RESTFUL
+# 6UG8 (Sexto Semestre Grupo 8)
 
 **UNIVERSIDAD REGIONAL AUTÓNOMA DE LOS ANDES 
 “UNIANDES”** <br>
@@ -8,7 +8,7 @@ CARRERA DE INGENIERÍA DE SOFTWARE <br>
 SEXTO SEMESTRE <br>
 MODALIDAD: ON LINE
 
-## Integrantes
+## Integrantes Grupo 8
 >Hugo Alfredo Herrera Villalva <br>
 Jaime Santiago Borja Romero <br>
 Jorge Luis López Romo <br>
