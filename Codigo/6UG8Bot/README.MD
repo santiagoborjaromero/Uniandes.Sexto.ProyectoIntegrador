@@ -72,15 +72,3 @@ temp/
 
 ```
 
-Como plus adicional
-
-```js
-El archivo `pregunta.py` es un aplicativo de como funciona un chat inteligente de gemini, pueden hgacer preguntas.
-
-El ingreso es de una sola linea consecutiva sin retornos de carro (enters).
-
-Es alaja para preguntar cosas cotidianas, tal y como el chatgpt
-
-En algun momento se le puede añadir a otro bot y tenemos un aistente inteligente.
-```
-
