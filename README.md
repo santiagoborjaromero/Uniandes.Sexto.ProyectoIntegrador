@@ -63,8 +63,10 @@ Data Warehouse <br>
         - Dashboard 
 - Codigo
     - 6UG8Bot.- Bot desarrollado con telegram, python y redes neuronales
-- Diagramas.- ER, Clases, Casos Uso, Secuancial
-- DocumentoIntegrador, Documento oficial presentado semana 8 fase 1
+- Diagramas.- ER, Clases, Casos Uso, Secuancial, Gantt.
+- DocumentoIntegrador.-
+    - Documento oficial presentado semana 8 fase 1.
+    - Presentacion de Bot con Redes neuronales (IA).
 - Images.- logo del grupo 8 
 
 
