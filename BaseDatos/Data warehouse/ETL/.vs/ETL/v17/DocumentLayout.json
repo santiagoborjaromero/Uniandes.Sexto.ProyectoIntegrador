@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jllr3\\OneDrive\\CAPACITACION\\6 Semestre\\Proyecto Integrador\\DWH\\ETL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D963A9C-1C18-49A1-BC7D-102B96A7CF00}|CapaDataMart\\CapaDataMart.dtproj|C:\\Users\\jllr3\\OneDrive\\CAPACITACION\\6 Semestre\\Proyecto Integrador\\DWH\\ETL\\CapaDataMart\\CargaDataMartStock.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{2D963A9C-1C18-49A1-BC7D-102B96A7CF00}|CapaDataMart\\CapaDataMart.dtproj|solutionrelative:CapaDataMart\\CargaDataMartStock.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4F8B7A-32AA-4248-AC52-D6759D960CE9}|CAPASTAGE\\CAPASTAGE.dtproj|C:\\Users\\jllr3\\OneDrive\\CAPACITACION\\6 Semestre\\Proyecto Integrador\\DWH\\ETL\\CAPASTAGE\\CargaStage.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{0E4F8B7A-32AA-4248-AC52-D6759D960CE9}|CAPASTAGE\\CAPASTAGE.dtproj|solutionrelative:CAPASTAGE\\CargaStage.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CargaDataMartStock.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jllr3\\OneDrive\\CAPACITACION\\6 Semestre\\Proyecto Integrador\\DWH\\ETL\\CapaDataMart\\CargaDataMartStock.dtsx",
+              "RelativeDocumentMoniker": "CapaDataMart\\CargaDataMartStock.dtsx",
+              "ToolTip": "C:\\Users\\jllr3\\OneDrive\\CAPACITACION\\6 Semestre\\Proyecto Integrador\\DWH\\ETL\\CapaDataMart\\CargaDataMartStock.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "CapaDataMart\\CargaDataMartStock.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-17T15:49:44.428Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CargaStage.dtsx [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jllr3\\OneDrive\\CAPACITACION\\6 Semestre\\Proyecto Integrador\\DWH\\ETL\\CAPASTAGE\\CargaStage.dtsx",
+              "RelativeDocumentMoniker": "CAPASTAGE\\CargaStage.dtsx",
+              "ToolTip": "C:\\Users\\jllr3\\OneDrive\\CAPACITACION\\6 Semestre\\Proyecto Integrador\\DWH\\ETL\\CAPASTAGE\\CargaStage.dtsx [Dise\u00F1o]",
+              "RelativeToolTip": "CAPASTAGE\\CargaStage.dtsx [Dise\u00F1o]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-17T15:48:26.63Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
