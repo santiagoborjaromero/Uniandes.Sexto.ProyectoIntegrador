@@ -21,9 +21,9 @@ NEGOCIOS E INTELIGENCIA ARTIFICIAL PARA LA EMPRESA DIPROAVILM DE LA CIUDAD DE QU
 
 ## información técnica
 
-**Arquitectura de Software:**   SOA - Arquitectura Orientada a Servicios <br>
-**Patron de Arquitectura:**     MVC - Modelo - Vista - Controlador <br>
-**Metodologia de desarrollo:**  SCRUM <br>
+**Arquitectura de Software:**   `SOA - Arquitectura Orientada a Servicios` <br>
+**Patron de Arquitectura:**     `MVC - Modelo - Vista - Controlador` <br>
+**Metodologia de desarrollo:**  `SCRUM` <br>
 
 ### Base de datos
 Transaccional <br>
