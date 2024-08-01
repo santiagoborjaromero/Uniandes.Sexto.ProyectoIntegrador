@@ -3,7 +3,7 @@
 
 **UNIVERSIDAD REGIONAL AUTÓNOMA DE LOS ANDES 
 “UNIANDES”** <br>
->FACULTAD DE SISTEMAS MERCANTILES <br>
+FACULTAD DE SISTEMAS MERCANTILES <br>
 CARRERA DE INGENIERÍA DE SOFTWARE <br>
 SEXTO SEMESTRE <br>
 MODALIDAD: ON LINE
@@ -15,14 +15,15 @@ Jorge Luis López Romo <br>
 Joel Darío Brito Parra <br>
 Ricardo Josué Vaca Miño <br>
 
-### Arquitectura de Software
-SOA
+## Nombre del Proyecto
+APLICACIÓN WEB PARA GESTIÓN DE ALMACÉN CON INTELIGENCIA DE 
+NEGOCIOS E INTELIGENCIA ARTIFICIAL PARA LA EMPRESA DIPROAVILM DE LA CIUDAD DE QUITO
 
-### Patron de Arquitectura
-MVC
+## información técnica
 
-### Metodologia de desarrollo
-SCRUM
+**Arquitectura de Software:**   SOA - Arquitectura Orientada a Servicios <br>
+**Patron de Arquitectura:**     MVC - Modelo - Vista - Controlador <br>
+**Metodologia de desarrollo:**  SCRUM <br>
 
 ### Base de datos
 Transaccional <br>
@@ -52,8 +53,7 @@ Data Warehouse <br>
 - Scikits Learn - Algoritmo: MLP Classifier (modelo multicapa)
 
 
-## Guia de Directorios
-
+## indice de Directorios
 
 - BaseDatos
     - Transaccional.- MySQL, estructura y data.
